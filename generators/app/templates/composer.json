@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jms/serializer-bundle": "^1.1",
+        "pulpmedia/nghttpbundle": "dev-master"
+    }
+}
